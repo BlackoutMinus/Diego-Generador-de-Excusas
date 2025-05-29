@@ -3,3 +3,12 @@
 body{
     background: white;
 }
+
+div{
+    margin: auto;
+    margin-top: 20%;
+    width: 50%; 
+    text-align: center;
+    border: 3px, solid, black;
+    background-color: rgb(161, 161, 161);
+}
